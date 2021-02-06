@@ -29,7 +29,7 @@ les stream creation, token rotation for secure and uninterrupted streaming, proc
 
 ## Build
 ### Download
-To download run the following command:
+To download run the following command: addedTravis
 
 `git clone https://github.com/awslabs/amazon-kinesis-video-streams-producer-sdk-cpp.git`
 
